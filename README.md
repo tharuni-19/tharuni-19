@@ -6,15 +6,15 @@
 ## 👨‍💻 About Me
 
 - 🎓 I'm a Computer Science student.
-- 🌱 Currently learning Data Structures and Algorithms.
+- 🌱 Currently learning Data Science and Algorithms.
 - 💻 Interested in Python and Web Development.
 - 🚀 Always learning new technologies.
 
 - ## 🌐 Connect with Me
 
-[LinkedIn](YOUR_LINKEDIN_LINK)
+[LinkedIn](https://www.linkedin.com/in/tharunika-saravanan-a8958a3a2?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
-[Portfolio](YOUR_PORTFOLIO_LINK)
+
 
 ## 🛠️ Tech Stack
 
